@@ -1,0 +1,44 @@
+.menu{
+    border: 1px solid black;
+    margin: auto;
+    width: 260px;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    text-align: center;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.users{
+    border: 1px solid black;
+    margin: auto;
+    width: 260px;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.data{
+    border: 1px solid black;
+    margin: auto;
+    width:260px;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.menu_requests{
+    border: 1px solid black;
+    margin: auto;
+    width: 800px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.min{
+    border: 1px solid black;
+    width: 260px;
+    margin-bottom: 10px;
+}
